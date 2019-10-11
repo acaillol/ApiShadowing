@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APE.Exposition.Vente.Api", "APE.Exposition.Vente.Api\APE.Exposition.Vente.Api.csproj", "{578C4867-ABFD-4AF3-9CFA-455E7668DCBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiShadowing", "ApiShadowing\APE.Exposition.Vente.Api.csproj", "{578C4867-ABFD-4AF3-9CFA-455E7668DCBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
